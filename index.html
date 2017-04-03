@@ -296,7 +296,7 @@ img.emoji {
 
     <!-- Custom Theme JavaScript -->
     <script src="main.js"></script>
-    <script type='text/javascript' src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;extension=.js&amp;output=embed"></script>
+    <script type='text/javascript' src="http://maps.googleapis.com/maps/api/js?extension=.js&amp;output=embed&amp;key=AIzaSyDuYgcTAnK6bp7k4MxT6oOSQJwVZkEgudE"></script>
 
     <script>
 	$(document).ready(function(){
@@ -318,12 +318,11 @@ img.emoji {
                     zoom: 15,
 
                     // The latitude and longitude to center the map (always required)
-                    center: new google.maps.LatLng(17.349193,78.571053), // New York
-					scrollwheel: false,
-    navigationControl: false,
-    mapTypeControl: false,
-    scaleControl: false,
-    draggable: false,
+                    center: new google.maps.LatLng(17.3453868,78.5664687), 
+                    scrollwheel: false,
+                    navigationControl: false,
+                    mapTypeControl: false,
+                    scaleControl: false,
 
                     // How you would like to style the map. 
                     // This is where you would paste any style found on Snazzy Maps.
@@ -339,9 +338,10 @@ img.emoji {
 
                 // Let's also add a marker while we're at it
                 var marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(17.349193,78.571053),
+                    position: new google.maps.LatLng(17.3453868,78.5664687),
                     map: map,
-                    title: 'Snazzy!'
+                    title: 'Arkay Consultancy',
+                    clickable: True
                 });
             }
 
