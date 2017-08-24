@@ -1,3 +1,4 @@
 User-agent: *
 Allow: *
 Disallow: /index_clean.html
+Sitemap: https://arkayconsultancy.com/sitemap.xml
