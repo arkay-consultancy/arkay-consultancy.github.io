@@ -1,0 +1,22 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://arkayconsultancy.com/</loc>
+<lastmod>2017-08-24T11:28:34+00:00</lastmod>
+<image:image>
+<image:loc>https://arkayconsultancy.com/logo.jpg</image:loc>
+<image:caption>Arkay Consultancy Logo</image:caption>
+</image:image>
+<image:image>
+<image:loc>https://arkayconsultancy.com/header.jpg</image:loc>
+<image:caption>Arkay Consultancy Header</image:caption>
+</image:image>
+<image:image>
+<image:loc>https://arkayconsultancy.com/portfolio.jpg</image:loc>
+<image:caption>Arkay Consultancy Portfolio</image:caption>
+</image:image>
+<image:image>
+<image:loc>https://arkayconsultancy.com/portfolio-1.jpg</image:loc>
+<image:caption>Arkay Consultancy Portfolio</image:caption>
+</image:image>
+</url>
+</urlset>
